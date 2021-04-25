@@ -1,4 +1,5 @@
 Spaceman - Deflationary rocket on BSC 🚀
+
 Fair Launch! 95% BNB sold on DXSale.app will be added to Pancakeswap liquidity v2 and locked for a month.
 
 SpacemanCoin ($SPACEMAN) is a token based on supply deflation and token redistribution meaning that holders tend to gain more in the long term.
@@ -11,7 +12,11 @@ SpacemanCoin ($SPACEMAN) is a token based on supply deflation and token redistri
 
 
 🎯 Fair Launch
+
 🎯 Liquidity burned » Unruggable 🔒
+
 🎯 Deflationary supply » Continuous Rising Price Floor 📈
+
 🎯 100% community based
+
 🎯 100% community based
